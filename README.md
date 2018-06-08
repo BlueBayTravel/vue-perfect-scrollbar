@@ -1,3 +1,6 @@
+### Forked because the original isn't compatible with JS Dom, which makes testing much easier.
+
+
 # `vue-perfect-scrollbar`
 
 [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar) vue version
